@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
 Calculadora - Una calculadora avanzada en Python
+Autor: Nex0r-dev
 """
 
 import math
